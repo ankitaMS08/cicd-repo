@@ -5,7 +5,7 @@
   "secureProperties": [],
   "redeploymentEnabled": true,
   "name": "com.mycompany:helloworld-cicd:1.0.0-SNAPSHOT",
-  "minMuleVersion": "4.5.0",
+  "minMuleVersion": "4.4.0",
   "requiredProduct": "MULE",
   "classLoaderModelLoaderDescriptor": {
     "id": "mule",
