@@ -37,7 +37,7 @@
 						<muleVersion>4.4.0</muleVersion>
 						<username>Am01</username>
 						<password>Training@123</password>
-						<applicationName>hello-world-cicd-041223</applicationName>
+						<applicationName>hello-world-cicd-041223-new</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
